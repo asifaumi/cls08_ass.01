@@ -1,0 +1,39 @@
+
+
+.red{
+	background-color: red;
+}
+
+.gray{
+	background-color: gray;
+}
+
+.skyblue{
+	background-color: skyblue;
+}
+
+.first{
+
+	border: 2px solid black;
+	height: 200px;
+	text-align: center;
+
+}
+
+.second{
+
+	border: 2px solid black;
+	height: 200px;
+	text-align: center;
+}
+.third{
+
+	border: 2px solid black;
+	height: 200px;
+	text-align: center;
+}
+
+
+
+
+

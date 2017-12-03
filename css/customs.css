@@ -1,20 +1,20 @@
 
 
 .red{
-	background-color: red;
+	background-color: #E25102;
 }
 
 .gray{
-	background-color: gray;
+	background-color: #E99161;
 }
 
 .skyblue{
-	background-color: skyblue;
+	background-color: #E99161;
 }
 
 .first{
 
-	border: 2px solid black;
+	border: 2px solid #fff;
 	height: 200px;
 	text-align: center;
 
@@ -22,13 +22,13 @@
 
 .second{
 
-	border: 2px solid black;
+	border: 2px solid #fff;
 	height: 200px;
 	text-align: center;
 }
 .third{
 
-	border: 2px solid black;
+	border: 2px solid #fff;
 	height: 200px;
 	text-align: center;
 }
